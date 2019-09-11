@@ -3,5 +3,5 @@ This is fopr testing purpose
 
 DOB collection form 
 
-Name:
-DOB:
+Name: Anil Tamang
+DOB:1987.12.22
